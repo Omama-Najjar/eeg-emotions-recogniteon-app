@@ -1,0 +1,35 @@
+# Data
+*.edf
+*.bdf
+*.csv
+*.mat
+*.dat
+data/
+My EEG Data/
+Unicorn Recordings/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.tflite
+experiment_results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
